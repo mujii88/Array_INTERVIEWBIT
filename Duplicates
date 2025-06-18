@@ -1,7 +1,0 @@
-def duplicates(A):
-freq=Counter(A)
-ocunt=0
-for i in freq:
-if freq[i]>1:
-count+=1
-return count
